@@ -1,0 +1,18 @@
+*****************************************************
+make folder
+make repository on github
+come back to your pc' folder
+shift+right_click open CMD
+git init .
+git remote add origin "link"
+git pull origin master
+git add .
+git commit -m "my msg"
+git push origin master
+
+*****************************************************
+
+git status
+git add .
+git commit -m "thesis one ki file"
+git push origin master
